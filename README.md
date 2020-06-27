@@ -1,7 +1,7 @@
 # gamerconfig
 config for best gamer experience tf2
 
-Why I made this? I was sick of mastercomfig being only reliable config. So I made this. It is based on mastercoms' research, my own research and community. I will try to update it daily based on my test. I decided to upload this for greater good.
+Why I made this? I was sick of mastercomfig being only reliable config. So I made this. It is based on mastercoms' research, my own research and community. I will try to update it based on my test. I decided to upload this for greater good.
 
 # includes:
 ## autoexec.cfg
